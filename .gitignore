@@ -1,0 +1,37 @@
+# ========== Keil MDK 编译产物 ==========
+MDK-ARM/f407/
+MDK-ARM/f407_B/
+MDK-ARM/f407_boot/
+**/Objects/
+**/Listings/
+*.o
+*.d
+*.crf
+*.dep
+*.axf
+*.elf
+*.hex
+*.bin
+*.map
+*.lst
+*.htm
+*.lnp
+*.sct
+
+# ========== Keil 个人配置 / 备份 ==========
+*.uvguix.*
+*.uvoptx
+*.uvprojx.bak*
+*.uvprojx.before*
+DebugConfig/
+
+# ========== 日志 ==========
+*.log
+
+# ========== 编辑器 / 系统 ==========
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*~
+*.tmp

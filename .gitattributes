@@ -1,0 +1,8 @@
+* text=auto eol=lf
+*.uvprojx text eol=crlf
+*.uvoptx  text eol=crlf
+*.uvguix.* text eol=crlf
+*.bin binary
+*.elf binary
+*.axf binary
+*.hex binary
